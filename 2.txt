@@ -1,0 +1,9 @@
+1
+2
+3
+4
+	
+SELECT count(*)
+FROM employees
+WHERE last_name = 'ֵנרמג'
+AND employee_id >= 32;
